@@ -26,7 +26,7 @@
 
 You must strictly follow this Step-by-Step process without skipping:
 
-- **Step 0: Skill Checking**: Prioritize checking `<workspace-root>/.agents/skills/<skill-folder>/` in the root directory or global config `C:\Users\24642\.gemini\config\skills\<skill-folder>`. Scene-specific Skills have a higher priority than the general workflow.
+- **Step 0: Skill Checking**: Prioritize checking skills. Scene-specific Skills have a higher priority than the general workflow.
 - **Step 1: Analyze**: Clarify requirements. Resolve any ambiguities through multi-turn dialogue.
 - **Step 2: Design**: Before writing any code, you must output the solution architecture and thought process first.
 - **Step 3: Review**: **CRITICAL**: Do NOT proceed to the next step or write implementation code until the user explicitly confirms and approves the design.
